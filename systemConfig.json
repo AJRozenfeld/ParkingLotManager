@@ -1,0 +1,7 @@
+{
+    "username" : "Felix",
+    "password" : "admin123",
+    "logFileName" : "vehicleLogs.json",
+    "openingTime" : "06:00:00",
+    "closingTime" : "23:30:00"
+}
